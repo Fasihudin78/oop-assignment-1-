@@ -1,0 +1,15 @@
+﻿Build started 11/15/2020 3:02:08 AM.
+     1>Project "D:\Sem 3 OOP 2k20\Assignment-Github\OrderDetail(QNo1)\OrderDetail(QNo1).vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "OrderDetail(QNo1).cpp"
+         OrderDetail(QNo1).cpp
+     1>d:\sem 3 oop 2k20\assignment-github\orderdetail(qno1)\orderdetail(qno1).cpp(356): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\time.inl(86) : see declaration of 'ctime'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Sem 3 OOP 2k20\Assignment-Github\OrderDetail(QNo1)\Debug\OrderDetail(QNo1).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Sem 3 OOP 2k20\Assignment-Github\OrderDetail(QNo1)\Debug\OrderDetail(QNo1).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Sem 3 OOP 2k20\Assignment-Github\OrderDetail(QNo1)\Debug\OrderDetail(QNo1).lib" /MACHINE:X86 "Debug\OrderDetail(QNo1).obj"
+         OrderDetail(QNo1).vcxproj -> D:\Sem 3 OOP 2k20\Assignment-Github\OrderDetail(QNo1)\Debug\OrderDetail(QNo1).exe
+     1>Done Building Project "D:\Sem 3 OOP 2k20\Assignment-Github\OrderDetail(QNo1)\OrderDetail(QNo1).vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.63

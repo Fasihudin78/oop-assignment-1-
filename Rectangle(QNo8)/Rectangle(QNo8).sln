@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rectangle(QNo8)", "Rectangle(QNo8).vcxproj", "{AD2A2D17-AFF6-4682-B067-8ED515B19733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD2A2D17-AFF6-4682-B067-8ED515B19733}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AD2A2D17-AFF6-4682-B067-8ED515B19733}.Debug|Win32.Build.0 = Debug|Win32
+		{AD2A2D17-AFF6-4682-B067-8ED515B19733}.Release|Win32.ActiveCfg = Release|Win32
+		{AD2A2D17-AFF6-4682-B067-8ED515B19733}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
